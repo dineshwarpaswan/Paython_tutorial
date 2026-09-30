@@ -1,0 +1,9 @@
+print()
+Fname=["mahesh","ramesh","kumar","neha","mohan","ramesh","mahesh"]
+Lname=["paswan","gorow","ramesh","paswan","sarma"]
+print(Fname.count("ramesh"))
+print() 
+print(Lname.count("paswan"))
+print()
+lname1=["danish","aman","rohit","aman","raju","danish","aman","kumar","sonu","aman","kumar"]
+print(lname1.count("aman")) 
